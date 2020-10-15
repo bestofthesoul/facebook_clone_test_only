@@ -6,8 +6,8 @@ This is a mock exercise for rails assessment.
 
 
 ## To Start
-1. Fork the repo.
-2. Clone the repo down to your local machine
+1. Fork the repository.
+2. Clone the repository down to your local machine
 3. Add ruby version on gemfile.
 4. Work on your solution.
 5. Push and commit as frequent as possible (at least every 2 hours).
